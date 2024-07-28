@@ -63,5 +63,4 @@ def main():
         print("Média:", np.mean(producao_por_pe))
         plot_distribuicao_reduzida(producao_por_pe)
 
-# if __name__ == "__main__":
 main()
